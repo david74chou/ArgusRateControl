@@ -1,0 +1,8 @@
+package: github.com/david74chou/ArgusRateControl
+import:
+- package: github.com/spf13/cobra
+  version: v0.0.1
+- package: github.com/spf13/viper
+  version: v1.0.0
+- package: gopkg.in/resty.v0
+  version: v1.0
